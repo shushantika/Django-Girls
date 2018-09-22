@@ -1,3 +1,7 @@
 myvenv/
 *.pyc
 __pycache__/
+*~
+db.sqlitte3
+/static
+.DS_Store
